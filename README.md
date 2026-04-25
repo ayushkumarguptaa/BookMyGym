@@ -71,6 +71,7 @@ cd BookMyGym
 2️⃣ Setup Backend
 cd backend
 npm install
+nodemon main.js
 
 Create .env file:
 
