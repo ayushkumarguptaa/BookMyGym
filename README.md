@@ -45,23 +45,23 @@ Git & GitHub
 BookMyGym/
 │
 ├── backend/
-│   ├── models/          # Database schemas
-│   ├── routes/          # API routes
-│   ├── public/          # Static assets
-│   ├── utils/           # Helper functions
-│   ├── views/           # EJS templates
-│   ├── middlewares.js   # Custom middleware
-│   ├── main.js          # Server entry point
-│   ├── .env             # Environment variables
-│   └── package.json
+│ ├── models/ # Database schemas
+│ ├── routes/ # API routes
+│ ├── public/ # Static assets
+│ ├── utils/ # Helper functions
+│ ├── views/ # EJS templates
+│ ├── middlewares.js # Custom middleware
+│ ├── main.js # Server entry point
+│ ├── .env # Environment variables
+│ └── package.json
 │
 ├── frontend/
-│   ├── components/      # React components
-│   ├── src/             # Main React app
-│   ├── public/          # Static files
-│   ├── index.html
-│   ├── vite.config.js
-│   └── package.json
+│ ├── components/ # React components
+│ ├── src/ # Main React app
+│ ├── public/ # Static files
+│ ├── index.html
+│ ├── vite.config.js
+│ └── package.json
 │
 └── README.md
 ⚙️ Installation & Setup
