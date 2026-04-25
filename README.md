@@ -101,8 +101,13 @@ POST	                    /register	           User registration
 Ayush Kumar Gupta
 
 GitHub: https://github.com/ayushkumarguptaa
+
 🔮 Future Enhancements
+
 💳 Online payment integration (Razorpay/Stripe)
+
 📩 Email/SMS notifications
+
 ⭐ Reviews & ratings system
+
 🔍 Advanced filtering (location, price, timing)
