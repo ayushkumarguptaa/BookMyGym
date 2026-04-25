@@ -44,15 +44,15 @@ Git & GitHub
 📁 Project Structure
 BookMyGym/
 │
-├── backend/ 
-│   ├── models/           # Database schemas
-│   ├── routes/           # API routes
-│   ├── public/           # Static assets
-│   ├── utils/            # Helper functions
-│   ├── views/            # EJS templates
-│   ├── middlewares.js    # Custom middleware
-│   ├── main.js           # Server entry point
-│   ├── .env               # Environment variables
+├── backend/
+│   ├── models/          # Database schemas
+│   ├── routes/          # API routes
+│   ├── public/          # Static assets
+│   ├── utils/           # Helper functions
+│   ├── views/           # EJS templates
+│   ├── middlewares.js   # Custom middleware
+│   ├── main.js          # Server entry point
+│   ├── .env             # Environment variables
 │   └── package.json
 │
 ├── frontend/
