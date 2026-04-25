@@ -89,12 +89,19 @@ Frontend runs on:
 
 http://localhost:5173
 🔗 API Endpoints (Sample)
+
 Method	                 Endpoint	             Description
+
 GET	                      /gyms              	 Get all gyms
+
 POST	                    /book	               Book a gym slot
+
 GET	                      /bookings	           User bookings
+
 POST	                    /login	             User login
+
 POST	                    /register	           User registration
+
 
 👨‍💻 Author
 
