@@ -4,6 +4,8 @@ BookMyGym is a full-stack gym booking web application built using the MERN stack
 
 🚀 Features
 
+📍Map based individual location feature added.
+
 🔐 User Authentication (Login/Register)
 
 🏋️ Browse gyms and services
