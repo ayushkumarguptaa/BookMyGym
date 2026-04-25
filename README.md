@@ -3,14 +3,23 @@
 BookMyGym is a full-stack gym booking web application built using the MERN stack. It allows users to explore gyms, book slots, and manage their fitness schedule efficiently.
 
 🚀 Features
+
 🔐 User Authentication (Login/Register)
+
 🏋️ Browse gyms and services
+
 📅 Slot booking system
+
 📊 User dashboard (bookings & history)
+
 🛠️ Admin panel for gym & booking management
+
 ⚡ Fast and responsive UI using React + Vite
+
 🔄 REST API integration
+
 🛠️ Tech Stack
+
 Frontend:
 React.js (with Vite)
 JavaScript (ES6+)
