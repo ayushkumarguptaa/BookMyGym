@@ -71,17 +71,16 @@ cd BookMyGym
 2️⃣ Setup Backend
 cd backend
 npm install
-nodemon main.js
 
 Create .env file:
 
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
+MONGO_URI=your_mongodb_connection_string PORT=5000
 
 Run backend:
+cd backend
+nodmeon main.js
 
-npm start
-3️⃣ Setup Frontend
+Setup Frontend:-
 cd frontend
 npm install
 npm run dev
