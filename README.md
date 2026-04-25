@@ -21,29 +21,38 @@ BookMyGym is a full-stack gym booking web application built using the MERN stack
 🛠️ Tech Stack
 
 Frontend:
+
 React.js (with Vite)
+
 JavaScript (ES6+)
+
 CSS / Bootstrap
+
 Backend:
+
 Node.js
+
 Express.js
+
 Database:
 MongoDB
+
 Other Tools:
 REST APIs
 Git & GitHub
+
 📁 Project Structure
 BookMyGym/
 │
-├── backend/
-│   ├── models/          # Database schemas
-│   ├── routes/          # API routes
-│   ├── public/          # Static assets
-│   ├── utils/           # Helper functions
-│   ├── views/           # EJS templates
-│   ├── middlewares.js   # Custom middleware
-│   ├── main.js          # Server entry point
-│   ├── .env             # Environment variables
+├── backend/ 
+│   ├── models/           # Database schemas
+│   ├── routes/           # API routes
+│   ├── public/           # Static assets
+│   ├── utils/            # Helper functions
+│   ├── views/            # EJS templates
+│   ├── middlewares.js    # Custom middleware
+│   ├── main.js           # Server entry point
+│   ├── .env               # Environment variables
 │   └── package.json
 │
 ├── frontend/
